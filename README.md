@@ -97,7 +97,7 @@ Epoch 10/10
 
 Visualization of Accuracy and Loss:
 <div> 
-<img src="images/acc.png" width="440" height="300"><img src="images/loss.png" width="440" height="300">
+<img src="images/acc.png" width="430" height="300"><img src="images/loss.png" width="430" height="300">
 </div>
 
 ### 4. Release History
