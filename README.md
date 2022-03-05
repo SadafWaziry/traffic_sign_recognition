@@ -110,5 +110,3 @@ Visualization of Accuracy and Loss:
       * Plotting the accuracy and loss of model
     * Date 6 January 2021
     
-### 5. By
-#### Sadaf Waziry & Ahmad Bilal Wardak - January 2021
